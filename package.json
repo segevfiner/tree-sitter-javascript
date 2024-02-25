@@ -6,7 +6,7 @@
   "keywords": [
     "parser",
     "lexer",
-	"javascript"
+	  "javascript"
   ],
   "repository": {
     "type": "git",
@@ -15,7 +15,7 @@
   "author": "Max Brunsfeld",
   "license": "MIT",
   "dependencies": {
-    "nan": "^2.18.0"
+    "node-addon-api": "^7.1.0"
   },
   "devDependencies": {
     "eslint": "^8.56.0",
